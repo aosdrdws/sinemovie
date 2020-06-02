@@ -1,0 +1,103 @@
+c:\users\aosdr\documents\visual studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+c:\users\aosdr\documents\visual studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+c:\users\aosdr\documents\visual studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+c:\users\aosdr\documents\visual studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Giris.resources
+c:\users\aosdr\documents\visual studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+c:\users\aosdr\documents\visual studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.Cache
+c:\users\aosdr\documents\visual studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+c:\users\aosdr\documents\visual studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+c:\users\aosdr\documents\visual studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Admin.resources
+C:\Users\aosdr\Documents\Visual Studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.KayıtOl.resources
+C:\Users\aosdr\Documents\Visual Studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Kullanıcı.resources
+C:\Users\aosdr\Documents\Visual Studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.MisafirKoltukSec.resources
+C:\Users\aosdr\Documents\Visual Studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SifremiUnuttum.resources
+C:\Users\aosdr\Documents\Visual Studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Veritabanı.accdb
+C:\Users\aosdr\Documents\Visual Studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\aosdr\Documents\Visual Studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Filmekle.resources
+C:\Users\aosdr\Documents\Visual Studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon1.resources
+C:\Users\aosdr\Documents\Visual Studio 2013\Projects\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon2.resources
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Veritabanı.accdb
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Admin.resources
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Filmekle.resources
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Giris.resources
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.KayıtOl.resources
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Kullanıcı.resources
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon1.resources
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon2.resources
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SifremiUnuttum.resources
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon1_k.resources
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Misafir.resources
+C:\Users\aosdr\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon2_k.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Veritabanı.accdb
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Admin.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Filmekle.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Giris.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.KayıtOl.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Kullanıcı.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Misafir.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon1_k.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon1.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon2.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon2_k.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SifremiUnuttum.resources
+C:\Users\aosdr\RdWs\Ders\Nesne Tabanlı Programlama\Proje\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\aosdr\Desktop\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+C:\Users\aosdr\Desktop\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+C:\Users\aosdr\Desktop\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\bin\Debug\Veritabanı.accdb
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojAssemblyReference.cache
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Admin.resources
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Filmekle.resources
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Giris.resources
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.KayıtOl.resources
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Kullanıcı.resources
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Misafir.resources
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon1_k.resources
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon1.resources
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon2.resources
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon2_k.resources
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SifremiUnuttum.resources
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+C:\Users\aosdr\rdws\Ders\Güz\Nesne Tabanlı Programlama\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\bin\Debug\Veritabanı.accdb
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojAssemblyReference.cache
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Admin.resources
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Filmekle.resources
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Giris.resources
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.KayıtOl.resources
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Kullanıcı.resources
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Misafir.resources
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon1_k.resources
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon1.resources
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon2.resources
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Salon2_k.resources
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.SifremiUnuttum.resources
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+D:\Ders\Sınıf_2_1\Nesne Tabanlı Programlama\ödev\Proje Sunum\175542010_AliOsmanSerdar_Demirkol\175542010_AliOsmanSerdar_Demirkol\Proje Kodları\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
